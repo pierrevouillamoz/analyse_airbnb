@@ -1,6 +1,6 @@
 # analyse_airbnb
 
-Ce notebook a été réalisé à partir des données récoltés auprès d'un hôte Airbnb. 
+Ce notebook a été réalisé à partir des données récoltées auprès d'un hôte Airbnb. 
 
 Pour chaque demande de séjour,  l'hôte a consigné les informations dans un registre.
 
@@ -10,6 +10,5 @@ Ce notebook montre la méthodologie utilisée pour produire les graphiques de la
 
 Bonne lecture
 
-Pour toutes questions
 
 
