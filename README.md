@@ -8,6 +8,8 @@ Airbnb fourni bien un reporting mais il n'est pas aussi complet (les demandes re
 
 Ce notebook montre la méthodologie utilisée pour produire les graphiques de la page https://pev-data.fr/airbnb.html
 
+Je fournis un extrait du registre (revenus normalisés à la moyenne).
+
 Bonne lecture
 
 
